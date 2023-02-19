@@ -1,0 +1,22 @@
+# 自用规则，纯人工收集记录，请注意
+# 2023.2.19
+title/.* - 小.(百科|知识)网/
+title/.*一键访问国外网站/
+title/.*点击一次就可以出国/
+title/^.*[ ]-[ ]小.(百科|知识)网$/
+title/^.*[ ]?-[ ]?.{1,4}(Sou|搜|Search)$/
+title/^小.(百科|知识)网$/
+title/小.(百科|知识)网/
+title/^.*(ek520|seetv|ezk888|xiaobi|3233|bb8808|liuhenvip|✔️|㊙️).*/
+title/.*手机博彩/
+title/.*【 官网.*】/
+title/.*买足平台/
+title/.*足彩单场/
+title/.*博鱼体育/
+title/.*亚博系平台/
+title/.*盘口网址/
+title/.*外围竞猜/
+title/.*手机买球/
+title/.*买足平台/
+title/.*手机买球/
+title/.*投注软件/
