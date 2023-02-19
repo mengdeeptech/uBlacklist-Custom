@@ -20,3 +20,4 @@ title/.*手机买球/
 title/.*买足平台/
 title/.*手机买球/
 title/.*投注软件/
+title/.*堂备用网址/
